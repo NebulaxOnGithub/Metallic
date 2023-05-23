@@ -199,14 +199,14 @@ function Appearance() {
         <Obfuscate>{t("appearance.background")}</Obfuscate>
       </div>
       <div className="chooseoption">
-        <BackgroundOption type="none">None</BackgroundOption>
+        <BackgroundOption type="none">Default</BackgroundOption>
         <BackgroundOption type="particles">Particles</BackgroundOption>
         <BackgroundOption type="stars">Stars</BackgroundOption>
         <BackgroundOption type="blocks">Blocks</BackgroundOption>
         <BackgroundOption type="triangles">Triangles</BackgroundOption>
         <BackgroundOption type="balls">Balls</BackgroundOption>
         <BackgroundOption type="bubbles">Bubbles</BackgroundOption>
-        <BackgroundOption type="sus">Sus</BackgroundOption>
+        <BackgroundOption type="sus">Amog Us</BackgroundOption>
       </div>
     </>
   );
